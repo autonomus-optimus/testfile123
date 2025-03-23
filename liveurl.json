@@ -1,5 +1,5 @@
 {
-  "liveurl": "http://103.122.74.6:8888/hls/tsports.m3u8",
+  "liveurl": "https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1742758171~acl=/*~hmac=ae6127ddfcfa18f915ccb177270340c5bd870da719a10f1f6e541fb164db251d",
   "defaulturl": "https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8",
   "isEnabled": true
 }
