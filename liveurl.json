@@ -1,5 +1,5 @@
 {
-  "liveurl": "https://airplay.bgrid.in/IPTVS/live/voot/1033.m3u8",
+  "liveurl": "https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/hdntl=exp=1742745014~acl=%2f*~data=hdntl~hmac=12a28f5a8b7effad2ef06d51799e71903e955fb082848e304add20b08e219593/Sports18_1_HD_voot_MOB-audio_108038_eng=108000-video=662800.m3u8",
   "defaulturl": "https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8",
   "isEnabled": true
 }
