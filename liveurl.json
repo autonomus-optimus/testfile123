@@ -1,5 +1,5 @@
 {
-  "liveurl": "https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/8uguphj3xa/out/v1/e1fde242c2324c858822cd9ffa081e34/cenc-sd.mpd",
+  "liveurl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
   "defaulturl": "https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8",
   "isEnabled": true
 }
