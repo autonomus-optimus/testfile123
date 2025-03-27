@@ -3,6 +3,7 @@
 "server1" : "https://m3u8.cloudycx.net/media/hls/files/index.m3u8",
 "server2" : "https://smart.bengaldigital.live/T-Sports_HD/tracks-v1a1/mono.m3u8",
 "server3" : "https://1a-1791.com/live/r31jzt5k/slot-77/oat7-b08v_1080p/chunklist_DVR.m3u8",
-"server4" : "https://myctxa.temycssme.wiki/720p.m3u8"
-"server5" : "https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co"
+"server4" : "https://myctxa.temycssme.wiki/720p.m3u8",
+"server5" : "https://1a-1791.com/live/y16rq9u0/live-hls/77p4-dymr/chunklist_i2_DVR.m3u8",
+"server6" : "https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co"
 }
