@@ -1,5 +1,5 @@
 {
-"url_id" : "live",
+"url_id" : "IPL",
 "server1" : "https://m3u8.cloudycx.net/media/hls/files/index.m3u8",
 "server2" : "https://smart.bengaldigital.live/T-Sports_HD/tracks-v1a1/mono.m3u8",
 "server3" : "https://raw.githubusercontent.com/autonomus-optimus/testfile123/main/fox.m3u8",
