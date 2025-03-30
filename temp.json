@@ -1,7 +1,7 @@
 {
 "url_id" : "FOX",
 "server1" : "https://m3u8.cloudycx.net/media/hls/files/index.m3u8",
-"server2" : "https://smart.bengaldigital.live/T-Sports_HD/tracks-v1a1/mono.m3u8",
+"server2" : "https://raw.githubusercontent.com/criccoder264/Astrohd/main/fox.m3u8",
 "server3" : "https://foxhindi.pages.dev/playlist.m3u8",
 "server4" : "https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co"
 }
