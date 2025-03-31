@@ -1,7 +1,6 @@
 {
 "url_id" : "KKR",
-"server1" : "https://m3u8.cloudycx.net/media/hls/files/index.m3u8",
+"server1" : "https://foxhindi.pages.dev/playlist.m3u8",
 "server2" : "https://raw.githubusercontent.com/criccoder264/Astrohd/main/sky.m3u8",
-"server3" : "https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/hdntl=exp=1743505734~acl=%2f*~data=hdntl~hmac=b0b6b6232205c7bab0ca1f11b9bff9ad1debf37b4e97698baa15e251844331ce/Sports18_1_HD_voot_MOB.m3u8",
-"server4" : "https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co"
+"server3" : "https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co"
 }
