@@ -1,6 +1,6 @@
 {
 "url_id" : "KKR",
-"server1" : "https://foxhindi.pages.dev/playlist.m3u8",
+"server1" : "https://vsd74.okcdn.ru/hls/8179691489969.m3u8/sig/6vRBoT_dx3A/expires/1743081712512/srcIp/42.106.177.120/urls/185.226.53.96/clientType/1/srcAg/CHROME_ANDROID/mid/9823236333233/8179691489969/video.m3u8?p",
 "server2" : "https://raw.githubusercontent.com/criccoder264/Astrohd/main/sky.m3u8",
 "server3" : "https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8?ref=developerinsider.co"
 }
