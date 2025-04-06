@@ -1,5 +1,6 @@
 {
   "webpages": [
-    {"name": "Willow", "url": "wsp.html"}
+    {"name": "Willow", "url": "wsp.html"},
+    {"name": "Hindi (Mobile)", "url": "emb2.html"}
   ]
 }
